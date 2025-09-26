@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Oseni Oluwabunmi</h1>
+<h1 align="center">Hello, I am  Oseni Oluwabunmi</h1>
 <h3 align="center">A software Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royaltechsis" alt="royaltechsis" /></a> </p>
