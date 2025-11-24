@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [oseni-oluwabunmi.vercel.app](oseni-oluwabunmi.vercel.app)
+- 👨‍💻 All of my projects are available at [oseni-oluwabunmi.vercel.app](https://oluwabunmi-oseni.vercel.app/)
 
 - 📫 How to reach me **osenibunmi2023@gmail.com**
 
-- 📄 Know about my experiences [oseni-oluwabunmi.vercel.app/resume](oseni-oluwabunmi.vercel.app/resume)
+- 📄 Know about my experiences [oseni-oluwabunmi.vercel.app/resume](https://oluwabunmi-oseni.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
